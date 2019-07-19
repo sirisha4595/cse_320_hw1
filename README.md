@@ -1,3 +1,3 @@
 # cse_320_hw1
-command t run:
+command to run:
 make debug
